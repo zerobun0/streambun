@@ -1,6 +1,1 @@
-export const APP_VERSION = import.meta.env.PACKAGE_VERSION;
-export const DISCORD_LINK = "https://discord.gg/7z6znYgrTG";
-export const GITHUB_LINK = "https://github.com/p-stream/p-stream";
-export const TWITTER_LINK = "";
-export const GA_ID = import.meta.env.VITE_GA_ID;
-export const BACKEND_URL = import.meta.env.VITE_BACKEND_URL;
+export const APP_VERSION = import.meta.env.PACKAGE_VERSION;\nexport const DISCORD_LINK = \"\";\nexport const GITHUB_LINK = \"https://github.com/zerobun0/streambun\";\nexport const TWITTER_LINK = \"\";\nexport const GA_ID = import.meta.env.VITE_GA_ID;\nexport const BACKEND_URL = import.meta.env.VITE_BACKEND_URL;
